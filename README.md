@@ -11,3 +11,10 @@ Methods: The research progressed from fundamental graph theory to advanced neuro
 Results: By utilizing FBNetGen, the model successfully generated task-aware brain graphs optimized specifically for diagnostics, bypassing the limitations of rigid, pre-calculated Pearson-correlation matrices. A subsequent deep dive into the GCN classifier’s decision-making process mapped its learned "latent space" using PCA and UMAP dimensionality reduction.
 
 Conclusion: The latent space analysis revealed how the AI visually clusters ASD versus healthy control groups, handles variations in hospital acquisition sites, and processes misclassified subjects. This demonstrates that dynamic, graph-based learning captures significantly richer, more actionable functional-connectivity representations than raw baseline data alone.
+
+<img width="263" height="346" alt="image" src="https://github.com/user-attachments/assets/7bb5b44a-a29a-4f22-80b7-9a86f0421005" />
+
+<img width="209" height="64" alt="image" src="https://github.com/user-attachments/assets/2fdc54fa-9d01-4fb9-9c2f-be17a849723c" />
+
+<img width="614" height="272" alt="image" src="https://github.com/user-attachments/assets/4d2e3a14-7f21-4d06-b669-f243148a62e3" />
+
